@@ -1,0 +1,12 @@
+---
+title: "Connor Hartwell Website"
+author: "Connor Hartwell"
+date: 2025-02-02
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
