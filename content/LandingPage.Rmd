@@ -1,0 +1,10 @@
+---
+title: "LandingPage"
+output: html_document
+---
+
+# Welcome to my Website!
+
+My name is Connor Hartwell and I am an assistant coach at the University of Charleston. I am a former student-athlete who captained the team to two regular season titles and two conference tournament trophies.
+
+I am looking to eventually become a head coach in the college soccer realm once I graduate with my second masters. I currently have an undergraduate degree in sport business and a master of science in strategic leadership, and I am now undertaking another masters in business and data analytics.
