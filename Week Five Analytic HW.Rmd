@@ -1,0 +1,24 @@
+---
+title: "Week Five Analytic HW"
+output: html_document
+---
+
+Part 1
+What are some potential sources of bias in the underlying dataset?
+One source could of bias could be age. When handing out loans, statistically older candidates have more chance because they have better credit and reports. Further to this, there may be an international discrimination bias. Some people may not be able to get loans because of where they are from, or how long they've been in the country for.
+
+How might biases be introduced in the data science pipeline?
+Biases may be introduced through data collection due to historical bias or sampling bias. There may be societal or discriminatory biases that no longer exist or have changed in the modern world, but years ago may have been at the fore front of society. In terms of sampling bias, the data collection may favor a certain group of people, leaving others out in the cold and therefore creating bias.
+
+What are the risks to fairness in downstream applications and deployment of the model described?
+Risks include the fact that if a model has been trained or has learned on data that is unrepresentative of the population it was supposed to represent, it can unintentionally create bias and discrimination of certain groups which could affect their ability to do things. In this model's case,a particular group e.g. 18-25 year olds could be discriminated against due to the credit reporting data, historical loans and payments, and background checks wihtin the data used.
+
+Part 2
+How would you describe a false positive in this problem to a policymaker or business owner? What's the potential harm/cost of one?
+As previously mentioned, using historical data can lead to biases, and the potential harm/cost of this is that someone may get approved for a loan that shouldn't.The cost of this is financial damage because someone has been approved for a loan that may not be able to pay it back.
+
+How would you describe a false negative? What is the potential harm?
+If someone gets denied when they should be approved. Of course, both this scenario would have a knock on effect for these individuals, and for the ABC bank this could lead to getting a bad reputation and losing customers, affecting profits in the long run.
+
+Which confusion matrix metric would you choose to focus on in terms of equity for this case?
+I would focus on FDR - false discovery rate. This is because wrongfully identifying someone for a loan could lead to financial damage. Yes, the goal is to increase repayment rates for loans, but if someone isn't able to pay then reaching this goal isn't possible, and losing money is not good for any business.
