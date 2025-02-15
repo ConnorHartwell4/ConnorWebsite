@@ -1,0 +1,9 @@
+---
+title: "Blogs"
+output: html_document
+---
+
+This page is dedicated to blogs written by myself about things in class, and other interests I have!
+
+# My thoughts on building a career in data science podcast
+Having listened to the podcast, I feel they spoke about a few reasons why building a website can be helpful for myself. The first was diving into the unknown and learning new skills which can be used in other sectors that I go into in the future. Further to this point, figuring out problems that occur now when I am learning what creating a website entails, rather than facing these problems in a real life work scenario where there is pressure on to complete a task by a deadline, will help if they reoccur later on down the line.One of the podcasters spoke about how she wrote a blog about pokemon, and although she knows a company won't ever ask her to do that, it helped her because she learned about matrices and other things that she didn't know how to do in R, so it was worth the hassle. 
